@@ -1,1 +1,2062 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
 
+.home_image {
+    background-image: url('assets/group-35_2021-11-23/group-35@3x.png');
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+
+
+.navbar-brand {
+    margin: 5px 5px 5px 20px;
+}
+
+
+#navigation_bar {
+    margin: 0;
+    width: 100%;
+}
+
+#nav {
+    transition: .5s;
+}
+
+.border {
+    border: 2px solid black;
+}
+
+.navbar-border {
+    border-radius: 20px;
+    border: solid 1px white;
+    padding: 5px 20px;
+    margin: 20px 10px;
+}
+
+.navbar_item {
+    margin: 20px 20px;
+}
+
+.navbar_item_img {
+    margin: 25px 5px;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255);
+}
+
+
+.first_content {
+    color: white;
+    margin-top: 220px;
+    margin-left: 10px;
+    height: 200px;
+    width: 100%;
+}
+
+.Rounded-Rectangle-6-copy-4 {
+    width: 15%;
+    height: 54px;
+    margin: -65px 693px 10px 628px;
+    padding: 18px 33px 22px 31px;
+    opacity: 0.6;
+    border-radius: 27px;
+    background-color: #006072;
+}
+
+.Lets-Book-a-Cleaner-copy {
+    width: 161px;
+    height: 14px;
+    font-family: Roboto;
+    font-size: 18px;
+    color: white;
+}
+
+.first_content h1 {
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+
+
+.first_content p {
+    font-family: Roboto;
+    font-size: 16px;
+    margin-left: 15px;
+    line-height: .1cm;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.center {
+    color: white;
+    position: absolute;
+    top: 350px;
+    left: 45%;
+    background-color: #006072;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: none;
+    color: red;
+}
+
+.home-grid {
+    position: absolute;
+    width: 100%;
+    top: 450px;
+}
+
+img.Forma-1-copy {
+    width: 52px;
+    height: 55px;
+    margin: 70px 5px 10px 403px;
+    object-fit: contain;
+}
+
+.Enter-your-postcode {
+    margin: 30px 5px 5px 353px;
+    font-family: Roboto;
+    color: #fff;
+}
+
+
+img.step-arrow1 {
+    width: 85px;
+    height: 23px;
+    margin: -162px 10px 57px 525px;
+    object-fit: contain;
+}
+
+img.Group-22 {
+    width: 57px;
+    height: 60px;
+    margin: -199px 0 5px 30px;
+}
+
+
+.Select-your-plan {
+    margin: -53px -2px 30px 621px;
+    font-family: Roboto;
+    text-align: center;
+    color: #fff;
+}
+
+img.step-arrow1-copy {
+    width: 85px;
+    height: 23px;
+    margin: 80px 10px 32px 5px;
+}
+
+img.Forma-1 {
+    width: 54px;
+    height: 54px;
+    margin: 65px 10px 30px 25px;
+}
+
+.Pay-securely-online {
+    width: 169px;
+    height: 19px;
+    margin: 15px 0px 30px 95px;
+    font-family: Roboto;
+    color: #fff;
+}
+
+
+img.step-arrow2 {
+    width: 85px;
+    height: 23px;
+    margin: -207px 10px 57px 223px;
+}
+
+img.Forma-1 {
+    width: 62px;
+    height: 63px;
+    margin: 60px 10px 20px 30px;
+}
+
+img.Forma-2 {
+    color: white;
+    background-color: var(--pale-grey);
+    margin: -178px 10px 76px 37px;
+}
+
+
+.Enjoy-amazing-service {
+    width: 197px;
+    height: 19px;
+    margin: -74px 0px 30px 323px;
+    font-family: Roboto;
+    color: #fff;
+}
+
+img.Shape-1 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 670px;
+    left: 50%;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+
+
+/* 2nd Sections */
+
+
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+.Why-Helperland {
+    width: 100%;
+    height: 38px;
+    margin: 87px 0px 84px 0px;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4f4f4f;
+}
+
+.Img_Content_1 {
+    margin-left: 180px;
+    margin-top: 35px;
+}
+
+
+
+.Experience-Vetted-Professionals {
+    width: 270px;
+    height: 59px;
+    margin: 38px 94px 39px 255px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #565656;
+}
+
+
+.dominate-the-industry-in-scale-and-scope-with-an-adaptable-ext {
+    width: 312px;
+    height: 64px;
+    margin: 37px 74px 156px 233px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.41;
+    letter-spacing: normal;
+    text-align: center;
+    color: #565656;
+}
+
+.online-Payment {
+    width: 320px;
+    height: 320px;
+}
+
+
+.Secure-Online-Payment {
+    width: 314px;
+    height: 29px;
+    margin: 52px 64px 55px 12px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #565656;
+}
+
+
+
+.Payment-is-processed-securely-online-Customers-pay-safely-onli {
+    width: 286px;
+    height: 64px;
+    margin: 37px 76px 156px 22px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.41;
+    letter-spacing: normal;
+    text-align: center;
+    color: #565656;
+}
+
+.customer-service {
+    width: 320px;
+    height: 319.5px;
+}
+
+
+
+.Dedicated-Customer-Service {
+    width: 274px;
+    height: 59px;
+    margin: 40px 129px 37px 42px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #565656;
+}
+
+
+
+.to-our-customers-and-are-guided-in-all-we-do-by-their-needs-Th {
+    width: 334px;
+    height: 64px;
+    margin: 37px 75px 68px 19px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.41;
+    letter-spacing: normal;
+    text-align: center;
+    color: #565656;
+}
+
+
+.Lorem-ipsum-dolor-sit-amet-consectetur {
+    width: 296px;
+    height: 59px;
+    margin: 71px 13px 18px 200px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4f4f4f;
+}
+
+.Rectangle-10-copy {
+    width: 922px;
+    height: 126px;
+    margin: 27px 0px 0px 0px;
+    padding: 1px 0px 0px 0px;
+    background-color: #fff;
+}
+
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Donec {
+    width: 630px;
+    height: 186px;
+    margin: 18px 97px 47px 47px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4f4f4f;
+}
+
+/* .image_3 {
+    margin-left: 40px;
+} */
+
+.Ellipse-672-copy {
+    width: 240px;
+    height: 240px;
+    margin: 44px 163px 53px 0;
+}
+
+.-circles-Free-time {
+    width: 151px;
+    height: 151px;
+}
+
+.-Cicrles--Friends {
+    width: 201px;
+    height: 201px;
+}
+
+
+.dedicated-helper {
+    width: 319.5px;
+    height: 319.5px;
+    margin-left: 229px;
+}
+
+
+
+.group_21_img {
+    width: 320px;
+    height: 320px;
+    padding: 0.5px 0 0 0.5px;
+    object-fit: contain;
+}
+
+
+
+.group_23_img {
+    width: 320px;
+    height: 320px;
+    object-fit: contain;
+}
+
+
+.group_24_img {
+    width: 320px;
+    height: 320px;
+    padding: 0 0 0.5px;
+    object-fit: contain;
+}
+
+.group_25_img {
+    width: 240px;
+    height: 240px;
+    margin: 62px 54px 15px 71px;
+    object-fit: contain;
+}
+
+.group_26_img {
+    width: 151px;
+    height: 151px;
+    margin: -394px 54px 15px 291px;
+    object-fit: contain;
+}
+
+.group_27_img {
+    width: 201px;
+    height: 201px;
+    margin: -345px 54px 15px 277px;
+    object-fit: contain;
+}
+
+/* 4 Sections */
+
+.Our-Blog {
+    width: 100%;
+    height: 38px;
+    margin: 15px 0px 66px 0px;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4f4f4f;
+}
+
+
+.Rectangle-10-copy {
+    width: 697px;
+    height: 463px;
+    margin: 30px 0px 0px 197px;
+    padding: 1px 0px 0px 0px;
+    background-color: #fff;
+}
+
+img.Group-28 {
+    width: 357px;
+    height: 164px;
+    margin: 0 0 20px;
+    object-fit: contain;
+}
+
+.Lorem-ipsum-dolor-sit-amet {
+    width: 246px;
+    height: 19px;
+    margin: 20px 91px 7px 20px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #3d4046;
+}
+
+.January-28-2019 {
+    width: 99px;
+    height: 12px;
+    margin: 7px 23px 14px 19px;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #a3a3a3;
+}
+
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Sed-fe {
+    width: 287px;
+    height: 59px;
+    margin: 14px 49px 27px 21px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: left;
+    color: #565656;
+}
+
+
+
+.Read-the-Post {
+    width: 110px;
+    height: 14px;
+    margin: 27px 11px 0 20px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4f4f4f;
+}
+
+.Shape-2 {
+    width: 29px;
+    height: 9px;
+    margin: -17px 138px 40px 129px;
+}
+
+.blog_box {
+    padding: 10px;
+    margin: 20px;
+}
+
+
+
+/* What our Customer Say */
+
+.Rectangle-10 {
+    width: 100%;
+    margin: 10px 0 0;
+    padding: 65px 0 0;
+    background-color: #f4f5f8;
+}
+
+.shape_2 {
+    margin: -56px 0px 0px 97px;
+}
+
+/* .message {
+    width: 35px;
+    height: 36px;
+    margin: 20px 0 4px 67px;
+    background-color: #dae5ec;
+} */
+
+
+.What-Our-Customers-Say {
+    width: 100%;
+    height: 38px;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: var(--greyish-brown);
+}
+
+.Rounded-Rectangle-506-copy {
+    width: 357px;
+    height: 370px;
+    margin: 59px 43px 42px 83px;
+    padding: 0 19px 0 0;
+    border-radius: 4px;
+    box-shadow: 0 0 30px 0 #e4ebf0;
+    background-color: #fff;
+}
+
+.Rounded-Rectangle-506-copy-2 {
+    width: 3px;
+    height: 370px;
+    margin: 0 35px 0 0;
+    border-radius: 1px;
+    background-color: #1d7a8c;
+}
+
+.home_lawyer2_ourteam_2 {
+    width: 70px;
+    height: 66px;
+}
+
+.home_lawyer2_ourteam_2 img {
+    width: 70px;
+    height: 70px;
+    margin: 43px 18px 27px 35px;
+    padding: 4px 0 0;
+    object-fit: contain;
+
+}
+
+.Lary-Watson {
+    width: 228px;
+    height: 18px;
+    margin: -10px 67px 8px 1px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: right;
+    color: #4f4f4f;
+}
+
+.Manchester {
+    width: 74px;
+    height: 11px;
+    margin: 8px 103px 43px 108px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    text-align: right;
+    color: #8e8e8e;
+}
+
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Sed-fe-2 {
+    width: 288px;
+    height: 146px;
+    margin: 27px 11px 30px 36px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: left;
+    color: #565656;
+}
+
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Sed {
+    width: 200px;
+    height: 118px;
+    margin: 27px 11px 10px 20px;
+    font-family: Roboto;
+    font-size: 16px;
+    color: #565656;
+}
+
+/* .Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Sed-fe {
+    width: 288px;
+    height: 120px;
+    margin: 27px 11px 10px 36px;
+    font-family: Roboto;
+    font-size: 16px;
+    color: #565656;
+} */
+
+
+.Read-More {
+    width: 85px;
+    height: 14px;
+    margin: 30px 1px 40px 37px;
+    font-family: Roboto;
+    font-size: 18px;
+    text-align: left;
+    color: #565656;
+}
+
+.container2 {
+    width: 100%;
+}
+
+
+.Ellipse-649 {
+    width: 48px;
+    height: 48px;
+    margin: 57px 83px 76px 70px;
+    padding: 8px 14px 20px;
+    background-color: #525252;
+    border-radius: 50%;
+}
+
+.Forma-arrow {
+    width: 20px;
+    height: 10px;
+    color: white;
+    background-color: #525252;
+}
+
+.GET-OUR-NEWSLETTER {
+    width: 50%;
+    margin: 30px 0px 5px 520px;
+    font-family: Roboto;
+    font-size: 14px;
+    color: #353548;
+    font-weight: bold;
+}
+
+img.Layer-598 {
+    width: 52px;
+    height: 50px;
+    margin: 30px 15px 12px 420px;
+    object-fit: contain;
+}
+
+
+.Your-Email {
+    width: 80px;
+    height: 10px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #565656;
+}
+
+.Rounded-Rectangle-648 {
+    width: 216px;
+    height: 40px;
+    margin: 9px 11px 53px 421px;
+    padding: 14px 131px 16px 22px;
+    border-radius: 20px;
+    border: solid 1px #565656;
+    background-color: #f4f5f8;
+}
+
+.Rounded-Rectangle-648-copy {
+    width: 88px;
+    height: 40px;
+    margin: -92px 3px 53px 647px;
+    padding: 4px 21px 16px 23px;
+    border-radius: 20px;
+    background-color: #ff7b6d;
+}
+
+.Submit {
+    width: 44px;
+    height: 11px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.29;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
+
+
+/* Footer */
+
+.footer_section {
+    background-color: #111;
+    height: 120px;
+    width: 100%;
+
+}
+
+.footer_navbar {
+    /* margin-top: 50px; */
+    margin: 50px 5px 0px;
+    width: 100%
+}
+
+.footer_navbar a {
+    text-decoration: none;
+    margin-top: 20px;
+    color: #f4f5f8;
+    padding: 5px 10px;
+}
+
+.footer_social_media {
+    margin: 50px 5px 0px;
+}
+
+.footer_Copyright {
+    width: 104%;
+    /* height: 64px; */
+    margin-top: 3%;
+    margin-left: -25px;
+}
+
+.footer_Copyright .footer_content {
+    text-align: center;
+    color: #9ba0a3;
+    font-family: Roboto;
+    padding: 20px;
+    width: 100%;
+}
+
+.footer_but button {
+    width: 99px;
+    height: 40px;
+    float: right;
+    margin-right: 20px;
+    margin-top: -68px;
+    border-radius: 20px;
+    border: none;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    color: #4f4f4f;
+    background-color: #eed507;
+}
+
+.footer_social_media img {
+    padding: 5px;
+}
+
+.logo_footer {
+    width: 106px;
+    height: 78px;
+    margin: 27px 262px 26px 122px;
+    object-fit: contain;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 767px) {
+
+    /* .image_3 {
+        margin-left: -69px;
+        width: 500px;
+    }
+
+    .card_box_1,
+    .card_box_2,
+    .card_box_3 {
+        margin: 10px 5px;
+    }
+
+    .Rounded-Rectangle-506-copy {
+        margin: 20px 10px;
+    }
+
+    .Ellipse-649 {
+        margin: 20px 148px;
+    }
+
+    .GET-OUR-NEWSLETTER {
+        margin: 30px 104px;
+    }
+
+    .Rounded-Rectangle-649 {
+        margin: 5px 6px 43px 32px;
+    }
+
+    .Rounded-Rectangle-649-copy {
+        margin: -83px 10px 10px 246px;
+    }
+
+    img.Layer-598 {
+        margin: 30px 15px 12px 153px;
+    }
+
+    .footer_navbar {
+        margin: 5px 2px;
+        background-color: #111;
+        width: 100%;
+    }
+
+    .footer_section {
+        background-color: #111;
+        height: 190px;
+        width: 100%;
+    }
+
+    .footer_Copyright {
+        width: 115%;
+        margin: 10px 0px 0px -24px;
+        height: 100px;
+    }
+
+    .footer_but button {
+        display: none;
+    }
+
+    .What-Our-Customers-Say {
+        font-size: 26px;
+    }
+
+    .Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Donec {
+        margin: 18px 10px 22px 0px;
+        font-size: 18px;
+        width: 100%;
+    }
+
+    .Lorem-ipsum-dolor-sit-amet-consectetur {
+        width: 100%;
+        margin: 104px 27px 18px -2px;
+        font-size: 26px;
+        font-weight: bold;
+    }
+
+    .Our-Blog {
+        margin: 15px 0px 80px -25px;
+    }
+
+
+    .Payment-is-processed-securely-online-Customers-pay-safely-onli {
+        margin-left: -57px;
+        width: 100%;
+    }
+
+    .Secure-Online-Payment {
+        margin-left: -63px;
+    }
+
+    .group_25_img {
+        width: 200px;
+        height: 200px;
+        margin: 19px 1px 1px 77px;
+    }
+
+    .group_26_img {
+        width: 131px;
+        height: 131px;
+        margin: -49px 1px 1px -11px;
+    }
+
+    .group_27_img {
+        width: 200px;
+        height: 200px;
+        margin: -82px 1px 1px 236px;
+    }
+
+    .Rounded-Rectangle-6-copy-4 {
+        width: 55%;
+        height: 54px;
+        margin: -65px 623px 10px 82px;
+        background-color: #006072;
+    }
+
+    .first_content h1 {
+        font-family: Roboto;
+        font-size: 40px;
+    }
+
+    .first_content p {
+        font-size: 12px;
+        margin-left: 18px;
+    }
+
+    .step-arrow1,
+    .step-arrow1-copy,
+    .step-arrow2 {
+        display: none;
+    }
+
+    .Enter-your-postcode {
+        margin: 5px 5px 5px 232px;
+    }
+
+    img.Forma-1-copy {
+        margin: 9px 5px 14px 269px;
+    }
+
+    .Select-your-plan {
+        margin: -55px 9px 30px -272px;
+    }
+
+    .Pay-securely-online {
+        margin: 15px 0px 30px 12px;
+    }
+
+    img.Forma-1 {
+        margin: -8px 10px 20px 30px;
+    }
+
+    img.Forma-2 {
+        margin: -178px 10px 76px 278px;
+    }
+
+    .Enjoy-amazing-service {
+        margin: -72px 0px 30px 238px;
+    }
+
+    img.Shape-1 {
+        margin: 24px 10px 10px -31px;
+    }
+
+    img.Group-22 {
+        margin: -161px 0 5px 30px;
+    }
+
+    .navbar-border {
+        border: none;
+    } */
+
+    .flex-container {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 1477px) {
+    .flex-container {
+        /* flex-direction: column; */
+        justify-content: center;
+        /* text-align: center; */
+    }
+
+    .dedicated-helper {
+        width: 100%;
+        height: 319.5px;
+        margin-left: 0px;
+    }
+
+    .online-Payment {
+        width: 100%;
+        height: auto;
+    }
+
+    .Secure-Online-Payment {
+        width: 100%;
+        text-align: center;
+        color: #565656;
+    }
+
+    .Secure-Online-Payment {
+        width: 100%;
+    }
+
+    .Payment-is-processed-securely-online-Customers-pay-safely-onli {
+        width: 100%;
+    }
+
+    .customer-service {
+        width: 100%;
+    }
+
+    .Dedicated-Customer-Service {
+        width: 100%;
+    }
+
+    .to-our-customers-and-are-guided-in-all-we-do-by-their-needs-Th {
+        width: 100%;
+    }
+
+    .Experience-Vetted-Professionals {
+        width: 100%;
+        height: 59px;
+        margin: 38px 0px 39px 0px
+    }
+
+    .dominate-the-industry-in-scale-and-scope-with-an-adaptable-ext {
+        width: 100%;
+        margin: 5px 0px;
+    }
+
+
+    .Lorem-ipsum-dolor-sit-amet-consectetur {
+        width: 100%;
+        margin: 71px 13px 18px 85px;
+    }
+
+    .Rectangle-10-copy {
+        width: 100%;
+        margin: 30px 0px 10px 0px;
+        padding: 1px 0px 0px 0px;
+        background-color: #fff;
+    }
+
+    .Rounded-Rectangle-506-copy {
+        /* width: 70%; */
+        margin: 5px 0px;
+    }
+
+    .Lorem-ipsum-dolor-sit-amet-consectetur {
+        width: 100%;
+        height: 59px;
+        margin: 71px 0px 18px 0px;
+        text-align: center;
+        color: #4f4f4f;
+    }
+}
+
+
+
+
+/* FAQ Page Style */
+
+.navbar_faq {
+    background-color: #525252;
+}
+
+.nav-item_faq {
+    background-color: #29626d;
+}
+
+.border_faq {
+    border: 2px solid red;
+}
+
+.faq_title {
+    width: 100%;
+    height: 30px;
+    margin: 40px 0px 14px 0px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.67;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4f4f4f;
+}
+
+.Rectangle-5-copy-5 {
+    width: 62px;
+    height: 1px;
+    margin: 26px auto 48px;
+    background-color: #ccc;
+    display: inline-block;
+}
+
+.separator_img {
+    width: 24px;
+    height: 25px;
+    margin: -54px 12px 37px 14px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Rectangle-5-copy-6 {
+    width: 62px;
+    height: 1px;
+    margin: 26px auto 49px auto;
+    background-color: #ccc;
+    display: inline-block;
+}
+
+.Layer-0 {
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    display: inline-block;
+    text-align: center;
+}
+
+.Whether-you-are-Customer-or-Service-provider-We-have-tried-our {
+    width: 491px;
+    height: 44px;
+    margin: 20px auto 36px auto;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: center;
+    color: #646464;
+}
+
+.section_box {
+    padding: 0px 140px;
+}
+
+
+.Rectangle-21-copy-3 {
+    width: 100%;
+    height: 66px;
+    margin: 0 0px 0 0;
+    padding: 10px 149px 24px;
+    background-color: #1d7a8c;
+}
+
+.For-Customer {
+    width: 174px;
+    height: 17px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.17;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
+
+.Rectangle-21 {
+    width: 100%;
+    height: 66px;
+    margin: 0px 0px 0px;
+    background-color: #f6f6f6;
+}
+
+.For-Service-Provider {
+    width: 260px;
+    height: 17px;
+    margin: 25px 106px 20px 108px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #646464;
+}
+
+
+.arrow {
+    width: 22px;
+    height: 22px;
+    margin: 43px 0px 20px 0px;
+    float: right;
+    object-fit: contain;
+}
+
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Sed-id {
+    width: 93%;
+    height: auto;
+    margin: 32px 0px 10px 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #646464;
+}
+
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Vestib {
+    width: 100%;
+    margin: 45px 0px 10px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #646464;
+}
+
+
+.faqs_que {
+    width: 100%;
+    margin: 43px 15px 20px 204px;
+}
+
+/* .arrow {
+    width: 22px;
+    height: 22px;
+    margin: 43px 15px 20px 58px;
+} */
+
+.faqs_q {
+    width: 100%;
+    height: 15px;
+    margin: -56px 326px 22px 87px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #646464;
+}
+
+.faqs_q1 {
+    width: 100%;
+    margin: 34px 284px 25px 88px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #646464;
+}
+
+.newsletter {
+    width: 100%;
+}
+
+.GET-OUR-NEWSLETTER_faq {
+    width: 100%;
+    height: 13px;
+    margin: 58px auto 20px auto;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.22;
+    letter-spacing: normal;
+    text-align: center;
+    color: #353548;
+}
+
+.Rounded-Rectangle-649_faq {
+    width: 233px;
+    height: 40px;
+    margin: 20px 0px 25px 0px;
+    padding: 14px 131px 16px 22px;
+    border-radius: 20px;
+    border: solid 1px #565656;
+    background-color: #f4f5f8;
+}
+
+.Your-Email_faq {
+    width: 100%;
+    height: 10px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #565656;
+}
+
+.Rounded-Rectangle-649-copy_faq {
+    width: 88px;
+    height: 40px;
+    margin: 20px 0px 53px 0px;
+    padding: 13px 21px 16px 23px;
+    border-radius: 20px;
+    background-color: #ff7b6d;
+}
+
+.Submit_faq {
+    width: 100%;
+    height: 11px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
+
+.footer_section_faq {
+    background-color: black;
+    width: 100%;
+}
+
+.white_logo_transparent_background-copy-4 {
+    width: 106px;
+    height: 78px;
+    margin: 5px auto 26px auto;
+}
+
+.Forma-1_faq {
+    width: 100%;
+    height: 18px;
+    margin: 34px auto 52px auto;
+}
+
+.social_media {
+    margin: 5px 10px 10px;
+}
+
+
+.footer_navbar_faq {
+    display: row;
+    text-align: center;
+    margin: 30px 5px;
+}
+
+.footer_navbar_faq a {
+    text-decoration: none;
+    color: #f4f5f8;
+    padding: 10px;
+}
+
+.Rectangle-12-copy-2 {
+    width: 100%;
+    height: 1px;
+    margin: 26px auto 27px;
+    background-color: #424242;
+}
+
+.-Helperland-All-rights-reserved-Terms-and-Conditions {
+    width: 100%;
+    height: 14px;
+    margin: 0px auto 0 auto;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.0;
+    letter-spacing: normal;
+    text-align: center;
+    color: #737381;
+    padding-bottom: 40px;
+}
+
+.-Helperland-All-rights-reserved-Terms-and-Conditions .text-style-1 {
+    color: #737381;
+}
+
+
+
+
+
+@media screen and (max-width: 767px) {
+    .section_box {
+        padding: 0px 20px;
+    }
+
+    .flex-container {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .Rectangle-12-copy-2 {
+        padding: 0px 5px;
+    }
+
+    .Whether-you-are-Customer-or-Service-provider-We-have-tried-our {
+        width: 100%;
+        height: 44px;
+        margin: 20px auto 45px auto;
+        font-size: 14px;
+    }
+
+    .Rectangle-21-copy-3 {
+        width: 100%;
+        height: 66px;
+        margin: 0 0px 0 0;
+        padding: 10px 0px;
+        background-color: #1d7a8c;
+    }
+
+    .For-Service-Provider {
+        width: 100%;
+        margin: 25px auto 20px auto;
+    }
+
+    .section_box {
+        padding: 0px 5px;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .Rectangle-12-copy-2 {
+        padding: 0px 5px;
+    }
+}
+
+@media screen and (max-width: 300px) {
+
+    .Rounded-Rectangle-649_faq {
+        width: 100%;
+        height: auto;
+        margin: 20px 0px 25px 0px;
+    }
+
+    .-Helperland-All-rights-reserved-Terms-and-Conditions {
+        width: 100%;
+        height: auto;
+    }
+
+    .Rectangle-21 {
+        width: 100%;
+        height: auto;
+    }
+}
+
+
+
+
+/* Prices CSS */
+
+.Rectangle-20-copy_prices {
+    width: 553px;
+    height: 59px;
+    margin: 0 auto 0px;
+    padding: 18px 217px 20px;
+    background-color: #1d7a8c;
+}
+
+.One-Time {
+    width: 119px;
+    height: 21px;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.86;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+.Rectangle-20_prices {
+    width: 553px;
+    height: 304px;
+    margin: 0px auto 51px;
+    padding: 0 0 32px;
+    border: solid 1px #b0c9ce;
+    background-color: var(--white);
+}
+
+.Forma-1_prices {
+    width: 31px;
+    height: 36px;
+    margin: 29px 9px 38px 202px;
+    color: #646464;
+    display: inline-block;
+    font-size: 50px;
+}
+
+.forma-1_5 {
+    width: 25px;
+    height: 24px;
+    margin: 37px 8px 19px 151px;
+    object-fit: contain;
+}
+
+.Lower-prices {
+    width: 40%;
+    height: 15px;
+    margin: -43px 325px 0px 194px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #646464;
+}
+
+.hr {
+    width: 93px;
+    height: 36px;
+    margin: 30px 211px 37px 9px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.8;
+    letter-spacing: normal;
+    text-align: center;
+    color: #646464;
+}
+
+.hr .text-style-1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+
+.forma-0_prices {
+    width: 37px;
+    height: 48px;
+    object-fit: contain;
+    /* background-color: #646464; */
+}
+
+
+.Ellipse-667_2 {
+    width: 108px;
+    height: 108px;
+    margin: 39px auto 17px auto;
+    padding: 24px 40px 28px;
+    border: solid 1px #b0c9ce;
+    /* background-image: linear-gradient(to top, #e5e4e2, #1d8bdd); */
+    border-radius: 50%;
+}
+
+.Inside-fridge {
+    width: 100%;
+    height: 15px;
+    margin: 17px 80px 9px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: center;
+    color: #646464;
+}
+
+.-minutes_2 {
+    width: 100%;
+    height: 14px;
+    margin: 9px auto 61px auto;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: center;
+    color: #1d7a8c;
+    display: block;
+}
+
+.What-we-include-in-cleaning {
+    width: 100%;
+    height: auto;
+    margin: 0 auto 10px;
+    padding: 80px 0px 10px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.67;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4f4f4f;
+}
+
+.group_18_3 {
+    width: 360px;
+    height: 210px;
+    margin: 42px 30px 24px 0;
+    object-fit: contain;
+}
+
+.Bedroom-and-Living-Room {
+    width: 235px;
+    height: 19px;
+    margin: 24px 112px 17px 0;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    /* text-align: center; */
+    color: var(--greyish-brown);
+}
+
+.Dust-all-accessible-surfaces-Wipe-down-all-mirrors-and-glass-fi {
+    width: 284px;
+    height: 123px;
+    margin: 23px 32px 15px 9px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4f4f4f;
+}
+
+.the-best-img-1 {
+    width: 329px;
+    height: 236px;
+    margin: 42px 8px 66px 6px;
+    object-fit: contain;
+}
+
+.why_helperland_prices_box {
+    /* width: 33.33%; */
+    margin: 0;
+}
+
+.Experienced-and-vetted-professionals {
+    width: 335px;
+    height: 19px;
+    margin: 44px 47px 13px 114px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: right;
+    color: #646464;
+}
+
+.dominate-the-industry-in-scale-and-scope-with-an-adaptable-ext {
+    width: 284px;
+    height: 54px;
+    margin: 13px 46px 47px 166px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: right;
+    color: #646464;
+}
+
+.Every-cleaning-is-insured {
+    width: 222px;
+    height: 19px;
+    margin: 44px 214px 13px 45px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #646464;
+}
+
+.and-seek-to-provide-exceptional-service-and-engage-in-proactive {
+    width: 275px;
+    height: 54px;
+    margin: 13px 162px 47px 44px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: left;
+    color: #646464;
+}
+
+@media screen and (max-width: 767px) {
+    .Bedroom-and-Living-Room {
+        width: 100%;
+        height: auto;
+        margin: 24px auto 17px;
+    }
+
+    .group_18_3 {
+        width: 100%;
+        height: 210px;
+        margin: 42px auto 24px;
+    }
+
+    .One-Time {
+        width: 100%;
+        height: auto;
+        font-size: 18px;
+    }
+
+    .Rectangle-20-copy_prices {
+        width: 100%;
+        height: auto;
+        margin: 0 auto 0px;
+        padding: 18px 40% 20px;
+    }
+
+    .Rectangle-20_prices {
+        width: 100%;
+        height: auto;
+    }
+
+    .forma-1_5 {
+        width: 50%;
+        height: 24px;
+        margin: 37px 0px 17px;
+    }
+
+    .Lower-prices {
+        width: 30%;
+        height: auto;
+        margin: -43px auto 0px;
+    }
+
+    .hr {
+        width: 40%;
+        height: auto;
+        margin: 30px 0 37px 9px;
+    }
+
+    .Forma-1_prices {
+        width: 40%;
+        height: auto;
+        margin: 29px 5px 38px 0px;
+        display: inline-block;
+        font-size: 40px;
+        text-align: right;
+    }
+
+    .Inside-fridge {
+        width: 100%;
+        height: auto;
+        margin: 17px auto 9px;
+    }
+
+
+}
+
+@media screen and (max-width: 900px) {
+    .why_helperland_prices_box {
+        width: 100%;
+    }
+
+    .Experienced-and-vetted-professionals {
+        width: 100%;
+        height: auto;
+        margin: 44px auto 13px;
+        text-align: center;
+    }
+
+    .dominate-the-industry-in-scale-and-scope-with-an-adaptable-ext {
+        width: 100%;
+        height: auto;
+        margin: 13px auto 47px;
+        text-align: center;
+    }
+
+    .Every-cleaning-is-insured {
+        width: 100%;
+        height: auto;
+        margin: 44px auto 13px;
+        text-align: center;
+    }
+
+    .and-seek-to-provide-exceptional-service-and-engage-in-proactive {
+        width: 100%;
+        height: auto;
+        margin: 13px auto 47px;
+        text-align: center;
+    }
+
+    .the-best-img-1 {
+        width: 100%;
+        height: auto;
+        margin: 42px auto 66px;
+    }
+
+}
+
+
+
+/* About CSS  */
+
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenea {
+    width: 92%;
+    height: auto;
+    margin: 38px auto 78px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #646464;
+}
+
+
+
+
+
+/* Contact CSS  */
+
+
+.forma-1_2 {
+    width: 100%;
+    height: 54px;
+    margin: 50px auto 22px;
+    object-fit: contain;
+}
+
+.-Lorem-ipsum-text-100-Lorem-ipsum-AB {
+    width: 197px;
+    height: 39px;
+    margin: 23px 114px 80px 125px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4f4f4f;
+}
+
+.message0-123-56-7890 {
+    width: 152px;
+    height: 17px;
+    margin: 22px 1px 10px 205px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4f4f4f;
+}
+
+
+
+.map {
+    width: 100%;
+}
+
+.pin {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.pin_position {
+    position: absolute;
+    top: 45.5%;
+    left: 45.4%;
+    right: 51.5%;
+    bottom: 37.8%;
+}
+
+.Get-in-touch-with-us {
+    width: 100%;
+    height: auto;
+    margin: 80px auto 30px;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.86;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4f4f4f;
+}
+
+.user-details input {
+    margin: 10px;
+    padding: 5px;
+}
+
+.input_box_1 {
+    width: 100%;
+}
+
+.input_box_1 input,
+.input_box_1 textarea {
+    width: 100%;
+}
+
+.Rounded-Rectangle-2 {
+    width: 299px;
+    height: auto;
+    margin: 5px auto;
+    padding: 5px 0px;
+    border: solid 1px #c8c8c8;
+    background-color: white;
+}
+
+.Rounded-Rectangle-2-copy-11 {
+    width: 100%;
+    height: 146px;
+    margin: 5px auto;
+    padding: 5px 10px;
+    border: solid 1px #c8c8c8;
+    background-color: var(--white);
+}
+
+.details {
+    border: 2px solid black;
+    padding: 5px 0px;
+    background-color: #c8c8c8;
+    color: #4f4f4f;
+}
+
+.Rounded-Rectangle-2-copy-6 {
+    width: 163px;
+    height: 46px;
+    margin: 15px auto 30px;
+    padding: 13px 54px 17px;
+    border-radius: 23px;
+    background-color: #1d7a8c;
+}
+
+
+@media screen and (max-width:500px) {
+    .-Lorem-ipsum-text-100-Lorem-ipsum-AB {
+        width: 100%;
+        height: auto;
+        margin: 23px auto 80px auto;
+        font-size: 12px;
+    }
+
+}
